@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IbrahimKarani
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on Web Development Projects 
+- 🌱 I’m currently learning Flutter
+- 💞️ I’m looking to collaborate on Web & Android Development Projects 
 - 📫 How to reach me [...](https://www.linkedin.com/in/ibrahim-fuad)
 
 <!---
